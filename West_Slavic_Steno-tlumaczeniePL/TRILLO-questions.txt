@@ -161,3 +161,11 @@ This is just a lame example based on yours.
 Which approach is better/correct?
 
 ----------
+
+### Working on word-pieces
+
+In the consonant groups of the right side are lacking as below (and proposition from previous version of them):
+```
+rś  RSO
+rsi RSW
+rtw RW (RTW?)
