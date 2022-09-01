@@ -1,0 +1,163 @@
+### As posten on Discord, the same below:
+
+```
+bzd ZTP*
+bzdr ZTPRJ*
+bzdrz ZTPR
+```
+
+According to "logic" it should be:
+```
+bzd ZTP*
+bzdr ZTPR
+bzdrz ZTPRJ*
+```
+I consider it a typo
+
+----------
+
+### Page 33 section "Something about J"
+
+JIAU >>> EIAU
+
+Then you write: `This modification only affects the following consonant and Y
+combination: BY, DY, DZY, GY, and HY.`
+Then below (next and next etc. section) you show that:
+
+ż = TPJ
+
+dż = PVJ
+
+rz = RJ (and so brz, drz, grz...)
+
+but also
+
+br, gr, hr, żr
+
+BUT here comes another rule which allows me to switch between y and i, when it's undoubtedly, like:
+
+rzy/ży = RJI/TPJI
+
+bry/gry/hry/żry = BRI/
+
+Right?
+
+--------------
+
+### Different `Y` and surroundings (page 32-37)
+
+Does it concern voiced sounds? And so:
+
+```
+py ➠ PIAU 	by ➠ PEIAU
+ty ➠ TIAU 	dy ➠ TEIAU
+ky ➠ KIAU 	gy ➠ KEIAU
+cy ➠ ZSIAU	dzy ➠ ZSEIAU whatabout ZSI (as dzi ➠ ZSJI)
+chy ➠ KTIAU	hy ➠ KTEIAU whatabout KTI (as hi ➠ KTJI)?
+szy ➠ TPIAU 	ży ➠ TPEIAU but TPI (and TPJI as above)
+czy ➠ PVIAU 	dży ➠ PVEIAU but PVI (and PVJI as above)
+```
+
+It looks like I could use it as a rule:
+
+**If there is key-goup `(x)J` (anything+J) and I want to voice it by `y`, then I can do it always this way: `(x)EIAU` although sometimes I can do it also another way.**
+
+considers to:
+```
+b - PJ
+d - TJ
+dź - TJ~ (non existent but in shortcuts)
+dz - ZSJ
+dż - PVJ
+g - KJ
+h - KTJ
+ł - LJ
+ń - LRJ (non existent but in shortcuts)
+rz - RJ
+ś - SJ (non existent but in shortcuts)
+```
+and consonant groups ending on above
+
+I ask this question for our scripting purposes for creation of dictionaries.
+
+(I still train first exercises, but I see that in near future I will need at least a basic dictionary to be able to train next exercises)
+
+So, what is your opinion? Technically `EIAU` is work-around, when it is impossible to play with `IAU` and use just `I` instead. 
+But if both options are stuck in dictionaries, a possible typing error will not result in a display error.
+
+----------
+
+Logic of words creation. 
+
+suffixes (Page 154)
+
+```
+ba = XFPJA
+by = XFPJY or XFPEIAU
+```
+
+suffixes (Page 174):
+
+```
+by = XFPEIAU or XFPJY
+bym = XFPEIAUCS
+byś = XFPEIAUSO
+byście = XFPEIAUSTO
+byśmy = XFPEIAUCSOY
+```
+
+And rules for tertiary vowels (as Page 260):
+
+```
+a = XZ
+e = XK
+i = XP
+o = XL
+u = XZK
+y = XZP
+
+```
+But I don't see similar words `aby, abym, abyś, abyście, abyśmy`. So can I creatively cheat and do it this way (they are words, not suffixes):
+
+```
+aby = XZPEIAU (aby) or shortcut XZEIAU (ay) or XZY (ay)
+abym = XZPEIAUCS (abym) or shortcut XZEIAUCS (aym)
+abyś = XZPEIAUSO (abyś) or shortcut XZEIAUSO (ayś)
+abyście = XZPEIAUSTO (abyść) or shortcut XZEIAUSTO (ayść)
+abyśmy = XZPEIAUCSOY (abyma) or shortcut XZEIAUSOY (ayma)
+```
+
+I know, it's sort of overlapping.
+
+(of course here's question for `byśmy = XFPEIAUCSOY` - why it is now `byśmy = XFPEIAUCSY` when `any = ZKPLACLY` and `emy = ZKPLECSY`? Perhaps should it be in both variants?)
+
+--------------
+
+## The way of creating words (word-roots) in general
+
+Having tertiary, primary and secondary vowels, as well as two groups of consonants (left and right), we have a huge potential of creation word roots, even when they are multisyllables.
+Should we look for a solution that results in fewer chords each time, or should we look for the most universal chords?
+
+E.g. core "chod":
+
+If it is universal, then we try to use it in various situations as:
+
+`chod-nik, chod-ak, chod-aczek, chod-acz(e)k-owy` 
+
+but also 
+
+`roz-chod-ni-aczek, chod-(dz)ik, chod-(z)ę, chod-(z)my, chod-(z)imy, roz-chod-niacz(e)k...`
+
+But I can also create 3 word roots:
+
+```
+chod >> chod-ak, chod-nik, chod-aczek
+chodz >> chodz-ę, chodz-imy, chodz-my, chodz-ik
+chodn >> roz-chodn-aczek, chodn-(i)k,
+```
+
+This is just a lame example based on yours.
+
+Which approach is better/correct?
+
+----------
