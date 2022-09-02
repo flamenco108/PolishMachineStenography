@@ -164,8 +164,13 @@ Which approach is better/correct?
 
 ### Working on word-pieces
 
-In the consonant groups of the right side are lacking as below (and proposition from previous version of them):
+In the consonant groups of the right side are lacking as below (and my propositions deduced from other examples):
+
 ```
 rś  RSO
 rsi RSW
 rtw RW (RTW?)
+rzch CRBG (like chrz rzk)
+
+You assigned `BSG` to `ż` and to `żb`, but there are similar words that differ this way eg. `wróż` and `wróżb`, so my proposition is to assign `żb` where also `żw` are assigned: `BSGW` which does not effect conflict.
+
