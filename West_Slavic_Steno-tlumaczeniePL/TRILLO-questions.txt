@@ -156,7 +156,7 @@ chodz >> chodz-ę, chodz-imy, chodz-my, chodz-ik
 chodn >> roz-chodn-aczek, chodn-(i)k,
 ```
 
-This is just a lame example based on yours.
+Above is just a lame example based on yours.
 
 Which approach is better/correct?
 
@@ -172,5 +172,12 @@ rsi RSW
 rtw RW (RTW?)
 rzch CRBG (like chrz rzk)
 
+```
+
 You assigned `BSG` to `ż` and to `żb`, but there are similar words that differ this way eg. `wróż` and `wróżb`, so my proposition is to assign `żb` where also `żw` are assigned: `BSGW` which does not effect conflict.
 
+-------------
+
+### Brackets
+
+I see that `{  KTPV-LBSG` and `[  KTPV-LBSG`, but `}  ZSKT-SGTW` and `]  KTPV*LBSG` - is it planned and if yes (I see the same in the table on page 302 and in Lessons), why? Do you expext that computer will retrospectively translate `[ or {` to apropriate forms based on their closing versions?
