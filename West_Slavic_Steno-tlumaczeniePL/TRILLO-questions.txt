@@ -1,4 +1,17 @@
-### As posten on Discord, the same below:
+Hello Priscilla!
+I hope you are feeling well now.
+
+I have some questions to you according to Stenography Manual and word creation methods. I put them below. But first I would like to ask: 
+
+How proficient should I be in doing certain exercise to move forward to the next exercise?
+I still train 1, 2 and 3. Perhaps I could tap faster, but right now - I don't know. My fingers more or less remember, where are the keys. Sometimes I make mistakes with `-S` and `-T`. And still I don't like thumb-keys, I loose position of thumbs. I'm going to put some stickers on `I` keys, maybe when they will have different feel, I will not mistake them.
+
+
+
+
+---------
+
+### As posted on Discord, the same below:
 
 ```
 bzd ZTP*
@@ -23,7 +36,7 @@ JIAU >>> EIAU
 Then you write: `This modification only affects the following consonant and Y
 combination: BY, DY, DZY, GY, and HY.`
 Then below (next and next etc. section) you show that:
-
+```
 ż = TPJ
 
 dż = PVJ
@@ -33,13 +46,13 @@ rz = RJ (and so brz, drz, grz...)
 but also
 
 br, gr, hr, żr
-
+```
 BUT here comes another rule which allows me to switch between y and i, when it's undoubtedly, like:
-
+```
 rzy/ży = RJI/TPJI
 
 bry/gry/hry/żry = BRI/
-
+```
 Right?
 
 --------------
@@ -133,7 +146,7 @@ I know, it's sort of overlapping.
 
 --------------
 
-## The way of creating words (word-roots) in general
+### The way of creating words (word-roots) in general
 
 Having tertiary, primary and secondary vowels, as well as two groups of consonants (left and right), we have a huge potential of creation word roots, even when they are multisyllables.
 Should we look for a solution that results in fewer chords each time, or should we look for the most universal chords?
